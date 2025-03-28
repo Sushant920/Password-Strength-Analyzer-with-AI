@@ -1,4 +1,8 @@
 venv
 __pycache__
 
-/data/processed_data.pth
+data/processed_data.pth
+data/vocab.pth
+
+models/password_lm_checkpoint.pth
+models/password_lm.pth
