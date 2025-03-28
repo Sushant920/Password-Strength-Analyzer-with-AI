@@ -1,6 +1,7 @@
 venv
 __pycache__
 
+data/rockyou.txt
 data/processed_data.pth
 data/vocab.pth
 
